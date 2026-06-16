@@ -1,172 +1,115 @@
 {
   "brand": "Auryel",
-  "usage": "Banque de textes pour publicités Facebook / Instagram avec créas visuelles contenant du texte overlay.",
-  "rules": {
-    "style": "mysterieux, premium, rassurant, sobre, clair",
-    "avoid": [
-      "ne pas promettre le retour d'un ex",
-      "ne pas affirmer qu'on connaît l'état émotionnel du lecteur",
-      "ne pas dire: il pense à toi",
-      "ne pas dire: tu souffres",
-      "ne pas dire: tu es bloqué",
-      "ne pas faire de promesse absolue",
-      "ne pas écrire de texte trop long sur les visuels"
-    ]
+  "usage": "Banque de textes Auryel pour publicités Meta Ads et contenus organiques.",
+  "strategy": {
+    "meta_ads": "Hooks émotionnels mais conformes Meta, sans supposition personnelle intrusive.",
+    "organic": "Hooks plus directs réservés aux contenus organiques TikTok/Reels, pas aux pubs payantes."
   },
-  "overlay_hooks": [
-    "Une réponse claire, par message",
-    "Votre question mérite de la clarté",
-    "Guidance sentimentale discrète",
-    "Posez votre question à Auryel",
-    "Première guidance offerte",
-    "Un doute à éclaircir ?",
-    "Tarot, intuition, clarté",
-    "Une guidance en toute discrétion",
-    "Recevez une réponse personnalisée",
-    "Un regard nouveau sur votre situation",
-    "Avancez avec plus de clarté",
-    "Votre tirage commence ici",
-    "Une question. Une réponse.",
-    "La clarté commence par un message",
-    "Guidance premium par message",
-    "Éclairez une situation sentimentale",
-    "Un échange discret et confidentiel",
-    "Auryel vous répond par message",
-    "Une consultation simple et privée",
-    "Prenez du recul avec Auryel",
-    "Un tirage sobre et personnalisé",
-    "Votre guidance, sans appel",
-    "Une réponse pensée pour vous",
-    "Découvrez une guidance plus claire",
-    "Un message peut tout éclairer"
-  ],
-  "overlay_subtexts": [
-    "Posez votre question et recevez une guidance personnalisée.",
-    "Une approche discrète pour éclairer une situation sentimentale.",
-    "Première consultation offerte pour découvrir Auryel.",
-    "Un échange privé, simple et confidentiel.",
-    "Une réponse par message, sans appel ni exposition.",
-    "Tarot et intuition dans une approche moderne.",
-    "Un accompagnement sobre pour avancer avec plus de clarté.",
-    "Une expérience premium, pensée pour la discrétion.",
-    "Votre question est traitée avec tact et sérieux.",
-    "Une guidance structurée, envoyée directement par message.",
-    "Un format simple pour obtenir une réponse claire.",
-    "Un espace confidentiel pour poser votre question.",
-    "Une lecture posée pour mieux comprendre votre situation.",
-    "Recevez une réponse claire, calme et personnalisée.",
-    "Une guidance sentimentale dans un cadre élégant."
-  ],
-  "primary_texts": [
-    "Posez votre question sentimentale et recevez une guidance claire par message. Première consultation offerte.",
-    "Auryel vous propose une guidance sentimentale discrète, par message, dans un cadre premium et confidentiel.",
-    "Une question, un doute, une situation à éclaircir. Recevez une réponse personnalisée directement par message.",
-    "Découvrez une approche sobre et moderne de la guidance sentimentale, sans appel, sans exposition, en toute discrétion.",
-    "Première consultation offerte : posez votre question et découvrez une réponse structurée avec Auryel.",
-    "Pour une question sentimentale, Auryel vous accompagne avec tact, clarté et confidentialité.",
-    "Recevez une guidance par message, pensée pour vous aider à prendre du recul sur une situation personnelle.",
-    "Tarot, intuition et réponse personnalisée : découvrez l’univers Auryel en toute discrétion.",
-    "Une guidance sentimentale premium, simple à demander, claire à recevoir, confidentielle du début à la fin.",
-    "Auryel vous permet de poser votre question et de recevoir une réponse claire, directement par message."
-  ],
-  "headlines": [
-    "Première guidance offerte",
-    "Posez votre question",
-    "Réponse par message",
-    "Guidance sentimentale",
-    "Consultation discrète",
-    "Tarot & intuition",
-    "Clarté en un message",
-    "Auryel vous répond",
-    "Un échange confidentiel",
-    "Guidance premium",
-    "Votre tirage commence ici",
-    "Une réponse claire",
-    "Découvrir Auryel",
-    "Consultation offerte",
-    "Avancer avec clarté"
-  ],
-  "descriptions": [
-    "Une guidance confidentielle par message.",
-    "Première consultation offerte.",
-    "Une réponse claire, sans appel.",
-    "Un cadre discret et premium.",
-    "Posez votre question en quelques instants.",
-    "Une approche moderne de la guidance.",
-    "Tarot et intuition, avec sobriété.",
-    "Pour éclairer une situation sentimentale.",
-    "Un échange privé et simple.",
-    "Recevez votre réponse par message."
-  ],
-  "ctas": [
-    "Envoyer un message",
-    "Découvrir",
-    "Poser ma question",
-    "Recevoir ma guidance",
-    "Commencer",
-    "Voir ma consultation",
-    "Demander une réponse",
-    "Accéder à Auryel"
-  ],
-  "captions": [
-    "Une question sentimentale. Une réponse claire. En toute discrétion.",
-    "Première guidance offerte avec Auryel.",
-    "Posez votre question et recevez une réponse par message.",
-    "Tarot, intuition et clarté dans un cadre confidentiel.",
-    "Une guidance sobre, premium et personnalisée.",
-    "Un doute à éclaircir ? Auryel vous répond par message.",
-    "Votre consultation commence par une simple question.",
-    "Un échange privé pour avancer avec plus de clarté.",
-    "Découvrez Auryel et recevez une première guidance offerte.",
-    "Une réponse claire, directement par message."
-  ],
-  "hashtags": [
-    "#Auryel",
-    "#GuidanceSentimentale",
-    "#Tarot",
-    "#VoyanceParMessage",
-    "#ConsultationOfferte",
-    "#Clarte",
-    "#GuidancePremium",
-    "#MessagePrive",
-    "#TarotModerne",
-    "#Intuition"
-  ],
-  "creative_templates": [
+  "meta_safe_concepts": [
     {
-      "name": "premium_direct",
-      "brand": "AURYEL",
-      "hook": "Première guidance offerte",
-      "subtext": "Posez votre question et recevez une réponse par message.",
-      "cta": "Commencer"
+      "concept_id": "CONCEPT_001",
+      "hook": "Un message peut tout éclairer",
+      "subtext": "Posez votre question et recevez une guidance privée par message.",
+      "cta": "Recevoir ma guidance",
+      "angle": "message_revelation"
     },
     {
-      "name": "question_clarity",
-      "brand": "AURYEL",
-      "hook": "Une question mérite de la clarté",
-      "subtext": "Guidance sentimentale discrète et confidentielle.",
-      "cta": "Poser ma question"
+      "concept_id": "CONCEPT_002",
+      "hook": "Avant de tourner la page",
+      "subtext": "Une guidance sentimentale discrète pour mieux comprendre la situation.",
+      "cta": "Poser ma question",
+      "angle": "decision_sentimentale"
     },
     {
-      "name": "tarot_modern",
-      "brand": "AURYEL",
-      "hook": "Tarot, intuition, clarté",
-      "subtext": "Une réponse personnalisée directement par message.",
-      "cta": "Découvrir"
+      "concept_id": "CONCEPT_003",
+      "hook": "La réponse commence ici",
+      "subtext": "Tarot, intuition et guidance personnalisée dans un cadre confidentiel.",
+      "cta": "Découvrir Auryel",
+      "angle": "tarot_premium"
     },
     {
-      "name": "message_private",
-      "brand": "AURYEL",
-      "hook": "Votre guidance, sans appel",
-      "subtext": "Un échange privé, simple et discret.",
-      "cta": "Envoyer un message"
+      "concept_id": "CONCEPT_004",
+      "hook": "Une question. Une réponse.",
+      "subtext": "Recevez une réponse claire, directement par message privé.",
+      "cta": "Demander ma réponse",
+      "angle": "question_reponse"
     },
     {
-      "name": "soft_doubt",
-      "brand": "AURYEL",
-      "hook": "Un doute à éclaircir ?",
-      "subtext": "Recevez une guidance claire dans un cadre confidentiel.",
-      "cta": "Recevoir ma guidance"
+      "concept_id": "CONCEPT_005",
+      "hook": "Votre tirage privé vous attend",
+      "subtext": "Première guidance offerte pour découvrir l’univers Auryel.",
+      "cta": "Commencer",
+      "angle": "tirage_prive"
+    },
+    {
+      "concept_id": "CONCEPT_006",
+      "hook": "Quand le cœur hésite",
+      "subtext": "Une lecture posée pour éclairer une situation sentimentale.",
+      "cta": "Recevoir ma guidance",
+      "angle": "hesitation"
+    },
+    {
+      "concept_id": "CONCEPT_007",
+      "hook": "Un signe mérite une réponse",
+      "subtext": "Posez votre question et recevez une guidance claire par message.",
+      "cta": "Poser ma question",
+      "angle": "signe"
+    },
+    {
+      "concept_id": "CONCEPT_008",
+      "hook": "Éclairez ce qui reste flou",
+      "subtext": "Une guidance discrète, confidentielle et personnalisée.",
+      "cta": "Demander ma réponse",
+      "angle": "flou_clarte"
+    },
+    {
+      "concept_id": "CONCEPT_009",
+      "hook": "Recevez votre guidance privée",
+      "subtext": "Un échange simple, confidentiel et directement par message.",
+      "cta": "Recevoir ma guidance",
+      "angle": "guidance_privee"
+    },
+    {
+      "concept_id": "CONCEPT_010",
+      "hook": "Ce tirage est peut-être le vôtre",
+      "subtext": "Découvrez une guidance sentimentale premium, simple et discrète.",
+      "cta": "Découvrir Auryel",
+      "angle": "tirage_invitation"
     }
+  ],
+  "organic_hard_hooks_not_for_ads": [
+    "Il pense encore à toi, mais il ne dira rien",
+    "Ton ex n’a pas fermé la porte",
+    "Tu ressens quelque chose parce qu’il y a encore un lien",
+    "Il cache ce qu’il ressent vraiment",
+    "La personne à laquelle tu penses n’est pas indifférente",
+    "Tu n’arrives pas à oublier cette histoire pour une raison",
+    "Il y a un message que tu dois recevoir aujourd’hui",
+    "Si tu vois cette carte, ce tirage est pour toi",
+    "Quelqu’un pense à toi en silence",
+    "Cette relation n’est pas terminée dans l’énergie"
+  ],
+  "visual_directions": [
+    "Tarot premium sur velours bleu nuit, bougies dorées, astres discrets, ambiance mystique moderne.",
+    "Cartes de tarot élégantes, marbre sombre, lumière chaude de bougie, reflets or subtils.",
+    "Ciel nocturne violet profond, tarot au premier plan, halos dorés, atmosphère confidentielle.",
+    "Table de tirage premium, cristaux discrets, bougies, texture luxe, profondeur cinématique.",
+    "Univers Auryel haut de gamme, bleu nuit, violet profond, doré discret, sans visage réaliste."
+  ],
+  "cta_pool": [
+    "Recevoir ma guidance",
+    "Poser ma question",
+    "Demander ma réponse",
+    "Découvrir Auryel",
+    "Commencer"
+  ],
+  "meta_rules": [
+    "Ne pas utiliser les hooks organiques dans les publicités payantes Meta.",
+    "Ne pas écrire: il pense à toi.",
+    "Ne pas écrire: ton ex va revenir.",
+    "Ne pas écrire: tu souffres.",
+    "Ne pas supposer directement l’état sentimental ou émotionnel du lecteur.",
+    "Ne pas promettre de résultat absolu.",
+    "Garder un ton premium, mystérieux, rassurant et clair."
   ]
 }
